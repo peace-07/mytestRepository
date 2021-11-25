@@ -11,7 +11,11 @@ public class HelloWorld {
         System.out.println("hello world！！！");
         System.out.println("hhhhhh");
         System.out.println("我是老二");
+        System.out.println("我是老大");
+        System.out.println("哈哈哈哈哈哈");
         System.out.println("哼哼哈嘿");
+        System.out.println("嚯嚯嚯");
+		
 		
     }
 }
