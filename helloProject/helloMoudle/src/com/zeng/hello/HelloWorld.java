@@ -10,6 +10,8 @@ public class HelloWorld {
         System.out.println("这个世界会好的！！！");
         System.out.println("hello world！！！");
         System.out.println("hhhhhh");
+        System.out.println("我是老二");
+        System.out.println("哼哼哈嘿");
 		
     }
 }
