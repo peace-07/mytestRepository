@@ -15,11 +15,11 @@ public class HelloWorld {
         System.out.println("哈哈哈哈哈哈");
         System.out.println("哼哼哈嘿");
         System.out.println("嚯嚯嚯");
+        System.out.println("我是猪八戒");
         System.out.println("我是大师兄");
-        System.out.println("妖怪哪里跑");
         System.out.println("师父师父");
-		
-		
+        System.out.println("我要回高老庄");
+        System.out.println("妖怪哪里跑");
 		
 		
     }
