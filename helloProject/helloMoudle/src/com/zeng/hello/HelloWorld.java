@@ -20,6 +20,7 @@ public class HelloWorld {
         System.out.println("师父师父");
         System.out.println("我要回高老庄");
         System.out.println("妖怪哪里跑");
+        System.out.println("呆子哪里跑");
 		
 		
     }
